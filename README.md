@@ -45,4 +45,4 @@ This project integrates generative AI models to enable complex image analysis ta
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
